@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.header{
+    font-family: 'Dangrek', cursive;
+    font-size: 20px;
+
+}
+
+.form{
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
+    
+}
+
+.table{
+    font-family: 'Roboto', sans-serif;
+    
+}
